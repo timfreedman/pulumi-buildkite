@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.3.2](https://github.com/pulumiverse/pulumi-buildkite/compare/v2.3.1...v2.3.2) (2023-09-23)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump github.com/pulumi/pulumi/sdk/v3 in /sdk ([c3cd7cc](https://github.com/pulumiverse/pulumi-buildkite/commit/c3cd7cc214e71d6d5b7ab38555a2050b785b8dde))
+* **deps:** update goreleaser/goreleaser-action action to v5 ([17b0e02](https://github.com/pulumiverse/pulumi-buildkite/commit/17b0e027263d0fcf0749054cf5417f77264c33c2))
+
 ## [2.3.1](https://github.com/pulumiverse/pulumi-buildkite/compare/v2.3.0...v2.3.1) (2023-09-11)
 
 
